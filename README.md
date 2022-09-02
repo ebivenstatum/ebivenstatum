@@ -6,7 +6,7 @@
 ### <div align="center">I'm Elizabeth, a full stack web developer.</div>  
   
 
-- 🔭 I’m currently working on [SudokuApp](https://github.com/ebivenstatum/SudokuApp)  
+- 🔭 I’m currently working on an [Interactive Card Details Form](https://github.com/ebivenstatum/Interactive-Card-Details-Form)  
   
 
 - 🌱 I’m currently learning Typescript  
