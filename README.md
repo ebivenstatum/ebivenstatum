@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on an [Interactive Card Details Form](https://github.com/ebivenstatum/Interactive-Card-Details-Form)  
   
 
-- 🌱 I’m currently learning Typescript  
+- 🌱 I’m currently learning Java 
 
 
 ## My Skill Set  
