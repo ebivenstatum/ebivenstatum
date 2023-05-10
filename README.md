@@ -3,9 +3,6 @@
 </div>  
   
 
-### <div align="center">I'm Elizabeth, an early career web developer.</div>  
-  
-
 - 🔭 I’m currently working on an [Interactive Card Details Form](https://github.com/ebivenstatum/Interactive-Card-Details-Form)  
   
 
