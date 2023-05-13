@@ -1,13 +1,6 @@
 <div align="center">
 <img src="https://github.com/ebivenstatum/ebivenstatum/blob/main/Hello%2C%20World!.gif" align="center" style="width: 100%" />
 </div>  
-  
-
-- 🔭 I’m currently working on an [Interactive Card Details Form](https://github.com/ebivenstatum/Interactive-Card-Details-Form)  
-  
-
-- 🌱 I’m currently learning Java 
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
